@@ -1,11 +1,11 @@
 # Agrocoin
- Agrocoin: Una criptomoneda basada en bitcoin centrada en los  agronegocios.
+ Agrocoin: Una criptomoneda basada en Litecoin centrada en los  agronegocios.
 
 Agrocoin fue diseñada ser una red de pagos global, de código abierto y completamente descentralizada. Su principal objetivo es la utilización en la comercialización agropecuaria en general. Permite realizar pagos instantáneos y de costo casi cero a cualquier parte del mundo y sin intermediaros.
 
 Creada el 19/11/2019. A partir de dicha fecha fue minado el bloque génesis y se continuó con el minado de bloques para dar estructura a la red. El lanzamiento de su sitio web oficial a principios de Febrero de 2020 revelo las características principales del proyecto y las instrucciones para hacerse de las criptomonedas mediante la minería de bloques.
 
-En agrocoin modificamos con respecto a bitcoin, el algoritmo de minado que utilizamos para obtener las criptomonedas, el tiempo para generar cada boque y la cantidad de confirmaciones necesarias para validar una transacción. Lo que nos brinda mayor descentralización y tiempos de transacciones más cortos.
+En agrocoin modificamos con respecto a bitcoin, el algoritmo de minado que utilizamos para obtener las criptomonedas, el tiempo para generar cada boque y la cantidad de confirmaciones necesarias para validar una transacción. Lo que nos brinda mayor descentralización y tiempos de transacciones más cortos. Respecto a litecoin, la cantidad de monedas emitidas.
 
 El máximo de AGC creados será de 21.000.000. El algoritmo genera un bloque cada 5 minutos aproximadamente (50 AGC) y reduce a la mitad las nuevas emisiones (Halving) de AGC cada 210.000 bloques. 
 
